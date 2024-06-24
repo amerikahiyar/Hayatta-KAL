@@ -1,0 +1,4 @@
+Kütüphaneler
+flask
+wtfiles
+flask_sqlalchemy
